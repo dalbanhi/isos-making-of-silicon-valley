@@ -6,8 +6,8 @@ This file includes information to help guide you in exploring the module: *Makin
 ### Secondary Sources
 Start here (in order) to get a lay of the land, then dive into book chapters, and finally exploring primary sources on your own.
 1. Videos, Podcasts, and Short Articles:
- * Silicon Valley: How Stanford, science, and war made tech history ([YouTube](https://www.youtube.com/watch?v=uHzVZ3Uk2TI))
-    * *Go Deeper*: How State Funding Built Silicon Valley | Tech Won't Save Us ([Podcast](https://www.techwontsave.us/episode/59_how_state_funding_built_silicon_valley_w_margaret_omara))
+   * Silicon Valley: How Stanford, science, and war made tech history ([YouTube](https://www.youtube.com/watch?v=uHzVZ3Uk2TI))
+      * *Go Deeper*: How State Funding Built Silicon Valley | Tech Won't Save Us ([Podcast](https://www.techwontsave.us/episode/59_how_state_funding_built_silicon_valley_w_margaret_omara))
   * Silicon Valley History | Silicon Valley Historical Society ([Article & Video](https://www.siliconvalleyhistorical.org/history-of-silicon-valley))
 
 2. Book Chapters:
