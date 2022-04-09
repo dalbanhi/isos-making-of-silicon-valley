@@ -8,16 +8,16 @@ Start here (in order) to get a lay of the land, then dive into book chapters, an
 1. Videos, Podcasts, and Short Articles:
    * Silicon Valley: How Stanford, science, and war made tech history ([YouTube](https://www.youtube.com/watch?v=uHzVZ3Uk2TI))
       * *Go Deeper*: How State Funding Built Silicon Valley | Tech Won't Save Us ([Podcast](https://www.techwontsave.us/episode/59_how_state_funding_built_silicon_valley_w_margaret_omara))
-  * Silicon Valley History | Silicon Valley Historical Society ([Article & Video](https://www.siliconvalleyhistorical.org/history-of-silicon-valley))
+   * Silicon Valley History | Silicon Valley Historical Society ([Article & Video](https://www.siliconvalleyhistorical.org/history-of-silicon-valley))
 
 2. Book Chapters:
- * The Code: Silicon Valley and the Remaking of America ([Full Book](https://drive.google.com/file/d/1lQtK03TjSF9N_Pl8SN0oelSxAwPXHWcN/view?usp=sharing))
-    * *Start with*: Chapter 1: Endless Frontier
-    * *Go Deeper*: Chapter 9: The Personal Machine, Chapter 10: Hombrewed, Chapter 14: California Dreaming, Chapter 22: Don't Be Evil
-  * Regional Advantage: Culture and Competition in Silicon Valley and Route 128 ([Full Book](https://drive.google.com/file/d/1OGBANtuYJA58IujoMq_xSqc3wHNXTiGM/view?usp=sharing))
-    * *Start with*: Chapter 2: Silicon Valley: Competition and Community
-  * A People's History of Silicon Valley ([Full Book](https://drive.google.com/file/d/1EFj7Es6wvAxvU4n-7CBkLv0tykFPYFNH/view?usp=sharing))
-    * *Start with*: Chapter 2: From Shellmounds to Microchips
+   * The Code: Silicon Valley and the Remaking of America ([Full Book](https://drive.google.com/file/d/1lQtK03TjSF9N_Pl8SN0oelSxAwPXHWcN/view?usp=sharing))
+     * *Start with*: Chapter 1: Endless Frontier
+     * *Go Deeper*: Chapter 9: The Personal Machine, Chapter 10: Hombrewed, Chapter 14: California Dreaming, Chapter 22: Don't Be Evil
+   * Regional Advantage: Culture and Competition in Silicon Valley and Route 128 ([Full Book](https://drive.google.com/file/d/1OGBANtuYJA58IujoMq_xSqc3wHNXTiGM/view?usp=sharing))
+     * *Start with*: Chapter 2: Silicon Valley: Competition and Community
+   * A People's History of Silicon Valley ([Full Book](https://drive.google.com/file/d/1EFj7Es6wvAxvU4n-7CBkLv0tykFPYFNH/view?usp=sharing))
+     * *Start with*: Chapter 2: From Shellmounds to Microchips
 
 ---
 
