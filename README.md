@@ -11,12 +11,12 @@ Start here (in order) to get a lay of the land, then dive into book chapters, an
   * Silicon Valley History | Silicon Valley Historical Society ([Article & Video](https://www.siliconvalleyhistorical.org/history-of-silicon-valley))
 
 2. Book Chapters:
- * <img alt ="the-code-book-cover-img" src="/resources/images/book-cover-the-code.png" width="50" height="60" /> The Code: Silicon Valley and the Remaking of America ([Full Book](https://drive.google.com/file/d/1lQtK03TjSF9N_Pl8SN0oelSxAwPXHWcN/view?usp=sharing))
+ * The Code: Silicon Valley and the Remaking of America ([Full Book](https://drive.google.com/file/d/1lQtK03TjSF9N_Pl8SN0oelSxAwPXHWcN/view?usp=sharing))
     * *Start with*: Chapter 1: Endless Frontier
     * *Go Deeper*: Chapter 9: The Personal Machine, Chapter 10: Hombrewed, Chapter 14: California Dreaming, Chapter 22: Don't Be Evil
-  * <img alt ="regional-advantage-book-cover-img" src="/resources/images/book-cover-regional-advantage.jpg" width="50" height="60" /> Regional Advantage: Culture and Competition in Silicon Valley and Route 128 ([Full Book](https://drive.google.com/file/d/1OGBANtuYJA58IujoMq_xSqc3wHNXTiGM/view?usp=sharing))
+  * Regional Advantage: Culture and Competition in Silicon Valley and Route 128 ([Full Book](https://drive.google.com/file/d/1OGBANtuYJA58IujoMq_xSqc3wHNXTiGM/view?usp=sharing))
     * *Start with*: Chapter 2: Silicon Valley: Competition and Community
-  * <img alt ="ppls-history-book-cover-img" src="/resources/images/book-cover-peoples-history.jpg" width="50" height="60" /> A People's History of Silicon Valley ([Full Book](https://drive.google.com/file/d/1EFj7Es6wvAxvU4n-7CBkLv0tykFPYFNH/view?usp=sharing))
+  * A People's History of Silicon Valley ([Full Book](https://drive.google.com/file/d/1EFj7Es6wvAxvU4n-7CBkLv0tykFPYFNH/view?usp=sharing))
     * *Start with*: Chapter 2: From Shellmounds to Microchips
 
 ---
