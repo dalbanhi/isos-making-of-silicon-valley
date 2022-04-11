@@ -4,7 +4,7 @@
 This file includes information to help guide you in exploring the module: *Making of Silicon Valley*.
 
 ### Secondary Sources
-Start here (in order) to get a lay of the land, then dive into book chapters, and finally exploring primary sources on your own.
+Start here (in order) to get a lay of the land, then dive into book chapters, and finally exploring primary sources on your own. I recommend you start with all of the *Start with* chapters before going into any of the *Go Deeper* chapters.
 1. Videos, Podcasts, and Short Articles:
    * Silicon Valley: How Stanford, science, and war made tech history ([YouTube](https://www.youtube.com/watch?v=uHzVZ3Uk2TI))
       * *Go Deeper*: How State Funding Built Silicon Valley | Tech Won't Save Us ([Podcast](https://www.techwontsave.us/episode/59_how_state_funding_built_silicon_valley_w_margaret_omara))
